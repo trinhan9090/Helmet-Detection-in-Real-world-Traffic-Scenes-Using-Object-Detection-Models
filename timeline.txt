@@ -1,0 +1,3 @@
+- 22/05/2026: Hoàn thiện bản Draft lần 1 về EDA, dự tính ngày 23 sẽ hoàn thiện phần code về EDA và bản báo cáo chương 1.
+- 23/05/2026: Hoàn thiện phần code về tổng quan dữ liệu (01)
+- 26/06/2026: Hoàn thiện phần báo cáo về tổng quan dữ liệu (01)
