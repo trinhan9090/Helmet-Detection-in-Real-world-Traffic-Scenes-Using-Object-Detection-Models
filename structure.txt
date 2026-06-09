@@ -1,0 +1,22 @@
+real-world-helmet-detection/
+├── notebooks/
+│   ├── 01_dataset_overview.ipynb
+│   ├── 02_annotation_analysis.ipynb
+│   ├── 03_bbox_geometry_analysis.ipynb
+│   ├── 04_relation_analysis.ipynb
+│   ├── 05_train_baseline_yolo.ipynb
+│   └── 06_evaluation_error_analysis.ipynb
+│
+├── reports/
+│   ├── main_ieee_paper/
+│   │   └── overleaf_source/
+│   ├── supplementary/
+│   │   ├── eda_annotation_analysis_report.pdf
+│   │   └── training_experiment_report.pdf
+│   └── figures/
+│
+├── src/
+├── configs/
+├── runs/
+├── README.md
+└── references/
